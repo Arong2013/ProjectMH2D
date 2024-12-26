@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Walk
+    m_Hash: 765711723
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZeldaMovement_2
+      m_Hash: 454986627
+      m_Sprite: {fileID: 181950400, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 181950400, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    - m_Name: ZeldaMovement_3
+      m_Hash: 739883797
+      m_Sprite: {fileID: -2126318912, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2126318912, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Side_Attack
+    m_Hash: 446581748
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZeldaMovement_4
+      m_Hash: 847064758
+      m_Sprite: {fileID: 674092044, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 674092044, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    - m_Name: ZeldaMovement_5
+      m_Hash: 91889184
+      m_Sprite: {fileID: 1288761438, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1288761438, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Climb
+    m_Hash: 476608526
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZeldaMovement_6
+      m_Hash: 477319066
+      m_Sprite: {fileID: -35141187, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -35141187, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZeldaMovement_0
+      m_Hash: 890301103
+      m_Sprite: {fileID: 1273420336, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1273420336, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Jump
+    m_Hash: 125937960
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ZeldaMovement_1
+      m_Hash: 35117625
+      m_Sprite: {fileID: 1541049697, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1541049697, guid: 1e0b06be84db2854d9f45794afb95a6c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638703360997586378
+  m_Version: 1
